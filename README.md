@@ -1,6 +1,6 @@
 # Simpleazy
 Adalah Aplikasi bendahara untuk Anak Sekolah. Nantinya aplikasi ini akan berbentuk web, mobile dan dekstop. Aplikasi ini belum responsive alias baru design dekstop saja. dan masih saya kembangkan bersama tim. Built with electron, react(ionic), dan vuejs.
-# Screenshot
+
 ## Tagih
 Tagih orang-orang langsung lewat email secara broadcast
 
